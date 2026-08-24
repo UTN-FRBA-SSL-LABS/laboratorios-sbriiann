@@ -398,7 +398,7 @@ make test
 
 **Flujo recomendado:** hacé commits frecuentes mientras avanzás, usá `make test` para verificar tu progreso, y dejá el push para cuando una parte esté realmente lista.
 
-Cuando estés listo/a:
+Cuando estés listo/aa:
 
 ```bash
 git add .
